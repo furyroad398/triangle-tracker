@@ -20,11 +20,11 @@ else if(a + b < c|| a + c < b || b + c < a)
 else if (a!=b && a!=c && c!=b)
 {
     output ="scalene triangle";
-}/*
+}
 else if(a == b || a == c || b == c)
 {
  output = "isosceles triangle";
-}
+}/*
 document.querySelector("#result").innerHTML = output;
 }
 */
