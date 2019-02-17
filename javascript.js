@@ -1,7 +1,7 @@
- function triangle() /*{
+ function triangle() {
 let a = parseInt(document.getElementById("#value1").value);
 let b = parseInt(document.getElementById("#value2").value);
-let c = parseInt(document.getElementById("#value3").value);
+let c = parseInt(document.getElementById("#value3").value);/*
 var output;
 
 
