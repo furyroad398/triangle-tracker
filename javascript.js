@@ -8,11 +8,11 @@ var output;
 if (a<=0 || b<=0||c<=0)
 {
   output = "not valid";
-}/*
+}
 else if(a + b < c|| a + c < b || b + c < a)
 {
   output = "Not valid";
-}
+}/*
  else if(a == b && a == c && c == b)
 {
     output ="equilateral triangle";
