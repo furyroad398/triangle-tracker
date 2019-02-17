@@ -24,7 +24,6 @@ else if (a!=b && a!=c && c!=b)
 else if(a == b || a == c || b == c)
 {
  output = "isosceles triangle";
-}/*
+}
 document.querySelector("#result").innerHTML = output;
 }
-*/
