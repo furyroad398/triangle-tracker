@@ -1,4 +1,4 @@
-function triangle() {
+ function triangle() /*{
 let a = parseInt(document.getElementById("#value1").value);
 let b = parseInt(document.getElementById("#value2").value);
 let c = parseInt(document.getElementById("#value3").value);
@@ -27,3 +27,4 @@ else if(a == b || a == c || b == c)
 }
 document.querySelector("#result").innerHTML = output;
 }
+*/
