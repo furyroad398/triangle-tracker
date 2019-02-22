@@ -13,6 +13,4 @@ TECHNOLOGIES USED
 The application makes use of html, css and javascript.
 
 CONTACT INFORMATION
-email:mwanziabyn@gmail.com
-
-
+email:mwanziabyn@gmail.co
